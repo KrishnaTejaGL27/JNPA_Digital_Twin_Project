@@ -1,4 +1,9 @@
 {
   "/page": "app/page.js",
+  "/api/kpi/route": "app/api/kpi/route.js",
+  "/api/alerts/route": "app/api/alerts/route.js",
+  "/api/vessels/route": "app/api/vessels/route.js",
+  "/api/gates/route": "app/api/gates/route.js",
+  "/api/trucks/route": "app/api/trucks/route.js",
   "/api/simulation/state/route": "app/api/simulation/state/route.js"
 }
